@@ -56,6 +56,15 @@
   },
   {
     "brand": "Honda",
+    "model": "Amaze 2nd Gen",
+    "slug": "amaze-2nd-gen",
+    "bodyType": "Sedan",
+    "fuelTypes": [
+      "Petrol"
+    ]
+  },
+  {
+    "brand": "Honda",
     "model": "City",
     "slug": "city",
     "bodyType": "Sedan",
@@ -273,6 +282,16 @@
   },
   {
     "brand": "Kia",
+    "model": "Carens Clavis",
+    "slug": "carens-clavis",
+    "bodyType": "Compact SUV",
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ]
+  },
+  {
+    "brand": "Kia",
     "model": "Carens Clavis EV",
     "slug": "carens-clavis-ev",
     "bodyType": "EV Crossover",
@@ -324,8 +343,8 @@
     "slug": "syros",
     "bodyType": "Compact SUV",
     "fuelTypes": [
-      "Diesel",
-      "Petrol"
+      "Petrol",
+      "Diesel"
     ]
   },
   {
@@ -413,6 +432,15 @@
   },
   {
     "brand": "Mahindra",
+    "model": "Bolero Camper",
+    "slug": "bolero-camper",
+    "bodyType": "Compact SUV",
+    "fuelTypes": [
+      "Diesel"
+    ]
+  },
+  {
+    "brand": "Mahindra",
     "model": "Bolero Neo",
     "slug": "bolero-neo",
     "bodyType": "Compact SUV",
@@ -431,9 +459,27 @@
   },
   {
     "brand": "Mahindra",
+    "model": "Bolero Pik-Up",
+    "slug": "bolero-pik-up",
+    "bodyType": "Compact SUV",
+    "fuelTypes": [
+      "Diesel"
+    ]
+  },
+  {
+    "brand": "Mahindra",
     "model": "Marazzo",
     "slug": "marazzo",
     "bodyType": "MPV",
+    "fuelTypes": [
+      "Diesel"
+    ]
+  },
+  {
+    "brand": "Mahindra",
+    "model": "Scorpio",
+    "slug": "scorpio",
+    "bodyType": "Compact SUV",
     "fuelTypes": [
       "Diesel"
     ]
@@ -541,8 +587,8 @@
     "slug": "alto-tour-h1",
     "bodyType": "Hatchback",
     "fuelTypes": [
-      "CNG",
-      "Petrol"
+      "Petrol",
+      "CNG"
     ]
   },
   {
@@ -596,6 +642,16 @@
   },
   {
     "brand": "Maruti Suzuki",
+    "model": "Dzire Tour S",
+    "slug": "dzire-tour-s",
+    "bodyType": "Sedan",
+    "fuelTypes": [
+      "CNG",
+      "Petrol"
+    ]
+  },
+  {
+    "brand": "Maruti Suzuki",
     "model": "Eeco",
     "slug": "eeco",
     "bodyType": "MPV",
@@ -606,9 +662,39 @@
   },
   {
     "brand": "Maruti Suzuki",
+    "model": "Eeco Cargo",
+    "slug": "eeco-cargo",
+    "bodyType": "Compact SUV",
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ]
+  },
+  {
+    "brand": "Maruti Suzuki",
+    "model": "Eeco Tour V",
+    "slug": "eeco-tour-v",
+    "bodyType": "Compact SUV",
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ]
+  },
+  {
+    "brand": "Maruti Suzuki",
     "model": "Ertiga",
     "slug": "ertiga",
     "bodyType": "MPV",
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ]
+  },
+  {
+    "brand": "Maruti Suzuki",
+    "model": "Ertiga Tour",
+    "slug": "ertiga-tour",
+    "bodyType": "Compact SUV",
     "fuelTypes": [
       "Petrol",
       "CNG"
@@ -650,8 +736,8 @@
     "slug": "invicto",
     "bodyType": "MPV",
     "fuelTypes": [
-      "Strong Hybrid",
-      "Petrol"
+      "Petrol",
+      "Strong Hybrid"
     ]
   },
   {
@@ -702,6 +788,16 @@
     "fuelTypes": [
       "Petrol",
       "CNG"
+    ]
+  },
+  {
+    "brand": "Maruti Suzuki",
+    "model": "Wagon R tour",
+    "slug": "wagon-r-tour",
+    "bodyType": "Hatchback",
+    "fuelTypes": [
+      "CNG",
+      "Petrol"
     ]
   },
   {
@@ -879,8 +975,8 @@
     "slug": "harrier",
     "bodyType": "Mid-size SUV",
     "fuelTypes": [
-      "Diesel",
-      "Petrol"
+      "Petrol",
+      "Diesel"
     ]
   },
   {
@@ -937,8 +1033,8 @@
     "slug": "safari",
     "bodyType": "Mid-size SUV",
     "fuelTypes": [
-      "Diesel",
-      "Petrol"
+      "Petrol",
+      "Diesel"
     ]
   },
   {
@@ -948,8 +1044,8 @@
     "bodyType": "Mid-size SUV",
     "fuelTypes": [
       "Petrol",
-      "Diesel",
-      "EV"
+      "EV",
+      "Diesel"
     ]
   },
   {
@@ -996,8 +1092,8 @@
     "slug": "xpres",
     "bodyType": "Sedan",
     "fuelTypes": [
-      "CNG",
-      "Petrol"
+      "Petrol",
+      "CNG"
     ]
   },
   {
@@ -1015,8 +1111,8 @@
     "slug": "camry",
     "bodyType": "Sedan",
     "fuelTypes": [
-      "Strong Hybrid",
-      "Petrol"
+      "Petrol",
+      "Strong Hybrid"
     ]
   },
   {
@@ -1026,6 +1122,15 @@
     "bodyType": "Premium SUV",
     "fuelTypes": [
       "Petrol",
+      "Diesel"
+    ]
+  },
+  {
+    "brand": "Toyota",
+    "model": "Fortuner Legender",
+    "slug": "fortuner-legender",
+    "bodyType": "Compact SUV",
+    "fuelTypes": [
       "Diesel"
     ]
   },
@@ -1079,6 +1184,16 @@
   },
   {
     "brand": "Toyota",
+    "model": "Taisor",
+    "slug": "taisor",
+    "bodyType": "Compact SUV",
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ]
+  },
+  {
+    "brand": "Toyota",
     "model": "Urban Cruiser Hyryder",
     "slug": "urban-cruiser-hyryder",
     "bodyType": "Mid-size SUV",
@@ -1121,6 +1236,15 @@
     "model": "Tiguan",
     "slug": "tiguan",
     "bodyType": "Premium SUV",
+    "fuelTypes": [
+      "Petrol"
+    ]
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Tiguan R-Line",
+    "slug": "tiguan-r-line",
+    "bodyType": "Compact SUV",
     "fuelTypes": [
       "Petrol"
     ]
