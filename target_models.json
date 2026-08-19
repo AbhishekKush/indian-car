@@ -1,0 +1,1137 @@
+[
+  {
+    "brand": "Citroen",
+    "model": "Basalt",
+    "slug": "basalt",
+    "bodyType": "Compact SUV",
+    "fuelTypes": [
+      "Petrol"
+    ]
+  },
+  {
+    "brand": "Citroen",
+    "model": "C3",
+    "slug": "c3",
+    "bodyType": "Hatchback",
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ]
+  },
+  {
+    "brand": "Citroen",
+    "model": "C3 Aircross",
+    "slug": "c3-aircross",
+    "bodyType": "Compact SUV",
+    "fuelTypes": [
+      "Petrol"
+    ]
+  },
+  {
+    "brand": "Citroen",
+    "model": "eC3",
+    "slug": "ec3",
+    "bodyType": "Hatchback",
+    "fuelTypes": [
+      "EV"
+    ]
+  },
+  {
+    "brand": "Force",
+    "model": "Gurkha",
+    "slug": "gurkha",
+    "bodyType": "Mid-size SUV",
+    "fuelTypes": [
+      "Diesel"
+    ]
+  },
+  {
+    "brand": "Honda",
+    "model": "Amaze",
+    "slug": "amaze",
+    "bodyType": "Sedan",
+    "fuelTypes": [
+      "Petrol"
+    ]
+  },
+  {
+    "brand": "Honda",
+    "model": "City",
+    "slug": "city",
+    "bodyType": "Sedan",
+    "fuelTypes": [
+      "Petrol",
+      "Strong Hybrid"
+    ]
+  },
+  {
+    "brand": "Honda",
+    "model": "City Hybrid",
+    "slug": "city-hybrid",
+    "bodyType": "Sedan",
+    "fuelTypes": [
+      "Strong Hybrid"
+    ]
+  },
+  {
+    "brand": "Honda",
+    "model": "Elevate",
+    "slug": "elevate",
+    "bodyType": "Mid-size SUV",
+    "fuelTypes": [
+      "Petrol"
+    ]
+  },
+  {
+    "brand": "Honda",
+    "model": "ZR-V",
+    "slug": "zr-v",
+    "bodyType": "Compact SUV",
+    "fuelTypes": [
+      "Strong Hybrid"
+    ]
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Alcazar",
+    "slug": "alcazar",
+    "bodyType": "Mid-size SUV",
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ]
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Aura",
+    "slug": "aura",
+    "bodyType": "Sedan",
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ]
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Creta",
+    "slug": "creta",
+    "bodyType": "Mid-size SUV",
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ]
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Creta Electric",
+    "slug": "creta-electric",
+    "bodyType": "EV Crossover",
+    "fuelTypes": [
+      "EV"
+    ]
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Creta N Line",
+    "slug": "creta-n-line",
+    "bodyType": "Mid-size SUV",
+    "fuelTypes": [
+      "Petrol"
+    ]
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Exter",
+    "slug": "exter",
+    "bodyType": "Compact SUV",
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ]
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Grand i10 Nios",
+    "slug": "grand-i10-nios",
+    "bodyType": "Hatchback",
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ]
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Ioniq 5",
+    "slug": "ioniq-5",
+    "bodyType": "EV Crossover",
+    "fuelTypes": [
+      "EV"
+    ]
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Prime HB",
+    "slug": "prime-hb",
+    "bodyType": "Hatchback",
+    "fuelTypes": [
+      "CNG"
+    ]
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Prime SD",
+    "slug": "prime-sd",
+    "bodyType": "Sedan",
+    "fuelTypes": [
+      "CNG"
+    ]
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Tucson",
+    "slug": "tucson",
+    "bodyType": "Premium SUV",
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ]
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Venue",
+    "slug": "venue",
+    "bodyType": "Compact SUV",
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ]
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Venue N Line",
+    "slug": "venue-n-line",
+    "bodyType": "Compact SUV",
+    "fuelTypes": [
+      "Petrol"
+    ]
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Verna",
+    "slug": "verna",
+    "bodyType": "Sedan",
+    "fuelTypes": [
+      "Petrol"
+    ]
+  },
+  {
+    "brand": "Hyundai",
+    "model": "i20",
+    "slug": "i20",
+    "bodyType": "Hatchback",
+    "fuelTypes": [
+      "Petrol"
+    ]
+  },
+  {
+    "brand": "Hyundai",
+    "model": "i20 N Line",
+    "slug": "i20-n-line",
+    "bodyType": "Hatchback",
+    "fuelTypes": [
+      "Petrol"
+    ]
+  },
+  {
+    "brand": "Jeep",
+    "model": "Compass",
+    "slug": "compass",
+    "bodyType": "Premium SUV",
+    "fuelTypes": [
+      "Diesel"
+    ]
+  },
+  {
+    "brand": "Jeep",
+    "model": "Meridian",
+    "slug": "meridian",
+    "bodyType": "Premium SUV",
+    "fuelTypes": [
+      "Diesel"
+    ]
+  },
+  {
+    "brand": "Kia",
+    "model": "Carens",
+    "slug": "carens",
+    "bodyType": "MPV",
+    "fuelTypes": [
+      "Petrol",
+      "Diesel",
+      "CNG"
+    ]
+  },
+  {
+    "brand": "Kia",
+    "model": "Carens Clavis EV",
+    "slug": "carens-clavis-ev",
+    "bodyType": "EV Crossover",
+    "fuelTypes": [
+      "EV"
+    ]
+  },
+  {
+    "brand": "Kia",
+    "model": "Carnival",
+    "slug": "carnival",
+    "bodyType": "MPV",
+    "fuelTypes": [
+      "Diesel"
+    ]
+  },
+  {
+    "brand": "Kia",
+    "model": "EV6",
+    "slug": "ev6",
+    "bodyType": "EV Crossover",
+    "fuelTypes": [
+      "EV"
+    ]
+  },
+  {
+    "brand": "Kia",
+    "model": "Seltos",
+    "slug": "seltos",
+    "bodyType": "Mid-size SUV",
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ]
+  },
+  {
+    "brand": "Kia",
+    "model": "Sonet",
+    "slug": "sonet",
+    "bodyType": "Compact SUV",
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ]
+  },
+  {
+    "brand": "Kia",
+    "model": "Syros",
+    "slug": "syros",
+    "bodyType": "Compact SUV",
+    "fuelTypes": [
+      "Diesel",
+      "Petrol"
+    ]
+  },
+  {
+    "brand": "MG",
+    "model": "Astor",
+    "slug": "astor",
+    "bodyType": "Mid-size SUV",
+    "fuelTypes": [
+      "Petrol"
+    ]
+  },
+  {
+    "brand": "MG",
+    "model": "Comet EV",
+    "slug": "comet-ev",
+    "bodyType": "Hatchback",
+    "fuelTypes": [
+      "EV"
+    ]
+  },
+  {
+    "brand": "MG",
+    "model": "Gloster",
+    "slug": "gloster",
+    "bodyType": "Premium SUV",
+    "fuelTypes": [
+      "Diesel"
+    ]
+  },
+  {
+    "brand": "MG",
+    "model": "Hector",
+    "slug": "hector",
+    "bodyType": "Mid-size SUV",
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ]
+  },
+  {
+    "brand": "MG",
+    "model": "Hector Plus",
+    "slug": "hector-plus",
+    "bodyType": "Mid-size SUV",
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ]
+  },
+  {
+    "brand": "MG",
+    "model": "Majestor",
+    "slug": "majestor",
+    "bodyType": "Compact SUV",
+    "fuelTypes": [
+      "Diesel"
+    ]
+  },
+  {
+    "brand": "MG",
+    "model": "Windsor EV",
+    "slug": "windsor-ev",
+    "bodyType": "EV Crossover",
+    "fuelTypes": [
+      "EV"
+    ]
+  },
+  {
+    "brand": "MG",
+    "model": "ZS EV",
+    "slug": "zs-ev",
+    "bodyType": "EV Crossover",
+    "fuelTypes": [
+      "EV"
+    ]
+  },
+  {
+    "brand": "Mahindra",
+    "model": "Bolero",
+    "slug": "bolero",
+    "bodyType": "Compact SUV",
+    "fuelTypes": [
+      "Diesel"
+    ]
+  },
+  {
+    "brand": "Mahindra",
+    "model": "Bolero Neo",
+    "slug": "bolero-neo",
+    "bodyType": "Compact SUV",
+    "fuelTypes": [
+      "Diesel"
+    ]
+  },
+  {
+    "brand": "Mahindra",
+    "model": "Bolero Neo Plus",
+    "slug": "bolero-neo-plus",
+    "bodyType": "MPV",
+    "fuelTypes": [
+      "Diesel"
+    ]
+  },
+  {
+    "brand": "Mahindra",
+    "model": "Marazzo",
+    "slug": "marazzo",
+    "bodyType": "MPV",
+    "fuelTypes": [
+      "Diesel"
+    ]
+  },
+  {
+    "brand": "Mahindra",
+    "model": "Scorpio Classic",
+    "slug": "scorpio-classic",
+    "bodyType": "Mid-size SUV",
+    "fuelTypes": [
+      "Diesel"
+    ]
+  },
+  {
+    "brand": "Mahindra",
+    "model": "Scorpio N",
+    "slug": "scorpio-n",
+    "bodyType": "Mid-size SUV",
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ]
+  },
+  {
+    "brand": "Mahindra",
+    "model": "Thar",
+    "slug": "thar",
+    "bodyType": "Compact SUV",
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ]
+  },
+  {
+    "brand": "Mahindra",
+    "model": "Thar Roxx",
+    "slug": "thar-roxx",
+    "bodyType": "Mid-size SUV",
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ]
+  },
+  {
+    "brand": "Mahindra",
+    "model": "XUV 3XO",
+    "slug": "xuv-3xo",
+    "bodyType": "Compact SUV",
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ]
+  },
+  {
+    "brand": "Mahindra",
+    "model": "XUV 3XO EV",
+    "slug": "xuv-3xo-ev",
+    "bodyType": "EV Crossover",
+    "fuelTypes": [
+      "EV"
+    ]
+  },
+  {
+    "brand": "Mahindra",
+    "model": "XUV 7XO",
+    "slug": "xuv-7xo",
+    "bodyType": "Compact SUV",
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ]
+  },
+  {
+    "brand": "Mahindra",
+    "model": "XUV400 EV",
+    "slug": "xuv400-ev",
+    "bodyType": "EV Crossover",
+    "fuelTypes": [
+      "EV"
+    ]
+  },
+  {
+    "brand": "Mahindra",
+    "model": "XUV700",
+    "slug": "xuv700",
+    "bodyType": "Mid-size SUV",
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ]
+  },
+  {
+    "brand": "Maruti Suzuki",
+    "model": "Alto K10",
+    "slug": "alto-k10",
+    "bodyType": "Hatchback",
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ]
+  },
+  {
+    "brand": "Maruti Suzuki",
+    "model": "Alto Tour H1",
+    "slug": "alto-tour-h1",
+    "bodyType": "Hatchback",
+    "fuelTypes": [
+      "CNG",
+      "Petrol"
+    ]
+  },
+  {
+    "brand": "Maruti Suzuki",
+    "model": "Baleno",
+    "slug": "baleno",
+    "bodyType": "Hatchback",
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ]
+  },
+  {
+    "brand": "Maruti Suzuki",
+    "model": "Brezza",
+    "slug": "brezza",
+    "bodyType": "Compact SUV",
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ]
+  },
+  {
+    "brand": "Maruti Suzuki",
+    "model": "Celerio",
+    "slug": "celerio",
+    "bodyType": "Hatchback",
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ]
+  },
+  {
+    "brand": "Maruti Suzuki",
+    "model": "Ciaz",
+    "slug": "ciaz",
+    "bodyType": "Compact SUV",
+    "fuelTypes": [
+      "Petrol"
+    ]
+  },
+  {
+    "brand": "Maruti Suzuki",
+    "model": "Dzire",
+    "slug": "dzire",
+    "bodyType": "Sedan",
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ]
+  },
+  {
+    "brand": "Maruti Suzuki",
+    "model": "Eeco",
+    "slug": "eeco",
+    "bodyType": "MPV",
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ]
+  },
+  {
+    "brand": "Maruti Suzuki",
+    "model": "Ertiga",
+    "slug": "ertiga",
+    "bodyType": "MPV",
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ]
+  },
+  {
+    "brand": "Maruti Suzuki",
+    "model": "Fronx",
+    "slug": "fronx",
+    "bodyType": "Compact SUV",
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ]
+  },
+  {
+    "brand": "Maruti Suzuki",
+    "model": "Grand Vitara",
+    "slug": "grand-vitara",
+    "bodyType": "Mid-size SUV",
+    "fuelTypes": [
+      "Petrol",
+      "CNG",
+      "Strong Hybrid"
+    ]
+  },
+  {
+    "brand": "Maruti Suzuki",
+    "model": "Ignis",
+    "slug": "ignis",
+    "bodyType": "Hatchback",
+    "fuelTypes": [
+      "Petrol"
+    ]
+  },
+  {
+    "brand": "Maruti Suzuki",
+    "model": "Invicto",
+    "slug": "invicto",
+    "bodyType": "MPV",
+    "fuelTypes": [
+      "Strong Hybrid",
+      "Petrol"
+    ]
+  },
+  {
+    "brand": "Maruti Suzuki",
+    "model": "Jimny",
+    "slug": "jimny",
+    "bodyType": "Compact SUV",
+    "fuelTypes": [
+      "Petrol"
+    ]
+  },
+  {
+    "brand": "Maruti Suzuki",
+    "model": "S-Presso",
+    "slug": "s-presso",
+    "bodyType": "Hatchback",
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ]
+  },
+  {
+    "brand": "Maruti Suzuki",
+    "model": "Swift",
+    "slug": "swift",
+    "bodyType": "Hatchback",
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ]
+  },
+  {
+    "brand": "Maruti Suzuki",
+    "model": "Victoris",
+    "slug": "victoris",
+    "bodyType": "Compact SUV",
+    "fuelTypes": [
+      "Petrol",
+      "CNG",
+      "Strong Hybrid"
+    ]
+  },
+  {
+    "brand": "Maruti Suzuki",
+    "model": "Wagon R",
+    "slug": "wagon-r",
+    "bodyType": "Hatchback",
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ]
+  },
+  {
+    "brand": "Maruti Suzuki",
+    "model": "XL6",
+    "slug": "xl6",
+    "bodyType": "MPV",
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ]
+  },
+  {
+    "brand": "Nissan",
+    "model": "Gravite",
+    "slug": "gravite",
+    "bodyType": "Compact SUV",
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ]
+  },
+  {
+    "brand": "Nissan",
+    "model": "Magnite",
+    "slug": "magnite",
+    "bodyType": "Compact SUV",
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ]
+  },
+  {
+    "brand": "Nissan",
+    "model": "Tekton",
+    "slug": "tekton",
+    "bodyType": "Compact SUV",
+    "fuelTypes": [
+      "Petrol"
+    ]
+  },
+  {
+    "brand": "Nissan",
+    "model": "X-Trail",
+    "slug": "x-trail",
+    "bodyType": "Compact SUV",
+    "fuelTypes": [
+      "Petrol"
+    ]
+  },
+  {
+    "brand": "Renault",
+    "model": "Duster",
+    "slug": "duster",
+    "bodyType": "Compact SUV",
+    "fuelTypes": [
+      "Petrol"
+    ]
+  },
+  {
+    "brand": "Renault",
+    "model": "Kiger",
+    "slug": "kiger",
+    "bodyType": "Compact SUV",
+    "fuelTypes": [
+      "Petrol"
+    ]
+  },
+  {
+    "brand": "Renault",
+    "model": "Kwid",
+    "slug": "kwid",
+    "bodyType": "Hatchback",
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ]
+  },
+  {
+    "brand": "Renault",
+    "model": "Triber",
+    "slug": "triber",
+    "bodyType": "MPV",
+    "fuelTypes": [
+      "Petrol"
+    ]
+  },
+  {
+    "brand": "Skoda",
+    "model": "Kodiaq",
+    "slug": "kodiaq",
+    "bodyType": "Premium SUV",
+    "fuelTypes": [
+      "Petrol"
+    ]
+  },
+  {
+    "brand": "Skoda",
+    "model": "Kushaq",
+    "slug": "kushaq",
+    "bodyType": "Mid-size SUV",
+    "fuelTypes": [
+      "Petrol"
+    ]
+  },
+  {
+    "brand": "Skoda",
+    "model": "Kylaq",
+    "slug": "kylaq",
+    "bodyType": "Compact SUV",
+    "fuelTypes": [
+      "Petrol"
+    ]
+  },
+  {
+    "brand": "Skoda",
+    "model": "Octavia RS",
+    "slug": "octavia-rs",
+    "bodyType": "Sedan",
+    "fuelTypes": [
+      "Petrol"
+    ]
+  },
+  {
+    "brand": "Skoda",
+    "model": "Slavia",
+    "slug": "slavia",
+    "bodyType": "Sedan",
+    "fuelTypes": [
+      "Petrol"
+    ]
+  },
+  {
+    "brand": "Skoda",
+    "model": "Superb",
+    "slug": "superb",
+    "bodyType": "Sedan",
+    "fuelTypes": [
+      "Petrol"
+    ]
+  },
+  {
+    "brand": "Tata",
+    "model": "Altroz",
+    "slug": "altroz",
+    "bodyType": "Hatchback",
+    "fuelTypes": [
+      "Petrol",
+      "Diesel",
+      "CNG"
+    ]
+  },
+  {
+    "brand": "Tata",
+    "model": "Curvv",
+    "slug": "curvv",
+    "bodyType": "Mid-size SUV",
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ]
+  },
+  {
+    "brand": "Tata",
+    "model": "Curvv EV",
+    "slug": "curvv-ev",
+    "bodyType": "EV Crossover",
+    "fuelTypes": [
+      "EV"
+    ]
+  },
+  {
+    "brand": "Tata",
+    "model": "Harrier",
+    "slug": "harrier",
+    "bodyType": "Mid-size SUV",
+    "fuelTypes": [
+      "Diesel",
+      "Petrol"
+    ]
+  },
+  {
+    "brand": "Tata",
+    "model": "Harrier EV",
+    "slug": "harrier-ev",
+    "bodyType": "EV Crossover",
+    "fuelTypes": [
+      "EV"
+    ]
+  },
+  {
+    "brand": "Tata",
+    "model": "Nexon",
+    "slug": "nexon",
+    "bodyType": "Compact SUV",
+    "fuelTypes": [
+      "Petrol",
+      "Diesel",
+      "CNG"
+    ]
+  },
+  {
+    "brand": "Tata",
+    "model": "Nexon EV",
+    "slug": "nexon-ev",
+    "bodyType": "Compact SUV",
+    "fuelTypes": [
+      "EV"
+    ]
+  },
+  {
+    "brand": "Tata",
+    "model": "Punch",
+    "slug": "punch",
+    "bodyType": "Compact SUV",
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ]
+  },
+  {
+    "brand": "Tata",
+    "model": "Punch EV",
+    "slug": "punch-ev",
+    "bodyType": "Compact SUV",
+    "fuelTypes": [
+      "EV"
+    ]
+  },
+  {
+    "brand": "Tata",
+    "model": "Safari",
+    "slug": "safari",
+    "bodyType": "Mid-size SUV",
+    "fuelTypes": [
+      "Diesel",
+      "Petrol"
+    ]
+  },
+  {
+    "brand": "Tata",
+    "model": "Sierra",
+    "slug": "sierra",
+    "bodyType": "Mid-size SUV",
+    "fuelTypes": [
+      "Petrol",
+      "Diesel",
+      "EV"
+    ]
+  },
+  {
+    "brand": "Tata",
+    "model": "Tiago",
+    "slug": "tiago",
+    "bodyType": "Hatchback",
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ]
+  },
+  {
+    "brand": "Tata",
+    "model": "Tiago EV",
+    "slug": "tiago-ev",
+    "bodyType": "Hatchback",
+    "fuelTypes": [
+      "EV"
+    ]
+  },
+  {
+    "brand": "Tata",
+    "model": "Tigor",
+    "slug": "tigor",
+    "bodyType": "Sedan",
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ]
+  },
+  {
+    "brand": "Tata",
+    "model": "Tigor EV",
+    "slug": "tigor-ev",
+    "bodyType": "Sedan",
+    "fuelTypes": [
+      "EV"
+    ]
+  },
+  {
+    "brand": "Tata",
+    "model": "Xpres",
+    "slug": "xpres",
+    "bodyType": "Sedan",
+    "fuelTypes": [
+      "CNG",
+      "Petrol"
+    ]
+  },
+  {
+    "brand": "Tata",
+    "model": "Yodha Pickup",
+    "slug": "yodha-pickup",
+    "bodyType": "Compact SUV",
+    "fuelTypes": [
+      "Diesel"
+    ]
+  },
+  {
+    "brand": "Toyota",
+    "model": "Camry",
+    "slug": "camry",
+    "bodyType": "Sedan",
+    "fuelTypes": [
+      "Strong Hybrid",
+      "Petrol"
+    ]
+  },
+  {
+    "brand": "Toyota",
+    "model": "Fortuner",
+    "slug": "fortuner",
+    "bodyType": "Premium SUV",
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ]
+  },
+  {
+    "brand": "Toyota",
+    "model": "Glanza",
+    "slug": "glanza",
+    "bodyType": "Hatchback",
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ]
+  },
+  {
+    "brand": "Toyota",
+    "model": "Hilux",
+    "slug": "hilux",
+    "bodyType": "Premium SUV",
+    "fuelTypes": [
+      "Diesel"
+    ]
+  },
+  {
+    "brand": "Toyota",
+    "model": "Innova Crysta",
+    "slug": "innova-crysta",
+    "bodyType": "MPV",
+    "fuelTypes": [
+      "Diesel"
+    ]
+  },
+  {
+    "brand": "Toyota",
+    "model": "Innova Hycross",
+    "slug": "innova-hycross",
+    "bodyType": "MPV",
+    "fuelTypes": [
+      "Petrol",
+      "Strong Hybrid"
+    ]
+  },
+  {
+    "brand": "Toyota",
+    "model": "Rumion",
+    "slug": "rumion",
+    "bodyType": "MPV",
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ]
+  },
+  {
+    "brand": "Toyota",
+    "model": "Urban Cruiser Hyryder",
+    "slug": "urban-cruiser-hyryder",
+    "bodyType": "Mid-size SUV",
+    "fuelTypes": [
+      "Petrol",
+      "CNG",
+      "Strong Hybrid"
+    ]
+  },
+  {
+    "brand": "Toyota",
+    "model": "Urban Cruiser Taisor",
+    "slug": "urban-cruiser-taisor",
+    "bodyType": "Compact SUV",
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ]
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Taigun",
+    "slug": "taigun",
+    "bodyType": "Mid-size SUV",
+    "fuelTypes": [
+      "Petrol"
+    ]
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Tayron",
+    "slug": "tayron",
+    "bodyType": "Compact SUV",
+    "fuelTypes": [
+      "Petrol"
+    ]
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Tiguan",
+    "slug": "tiguan",
+    "bodyType": "Premium SUV",
+    "fuelTypes": [
+      "Petrol"
+    ]
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Virtus",
+    "slug": "virtus",
+    "bodyType": "Sedan",
+    "fuelTypes": [
+      "Petrol"
+    ]
+  }
+]
