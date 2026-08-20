@@ -1,6 +1,15 @@
 [
   {
     "brand": "Citroen",
+    "model": "Aircross X",
+    "slug": "aircross",
+    "bodyType": "Compact SUV",
+    "fuelTypes": [
+      "Petrol"
+    ]
+  },
+  {
+    "brand": "Citroen",
     "model": "Basalt",
     "slug": "basalt",
     "bodyType": "Compact SUV",
@@ -29,6 +38,15 @@
   },
   {
     "brand": "Citroen",
+    "model": "C5 Aircross",
+    "slug": "c5-aircross",
+    "bodyType": "Premium SUV",
+    "fuelTypes": [
+      "Diesel"
+    ]
+  },
+  {
+    "brand": "Citroen",
     "model": "eC3",
     "slug": "ec3",
     "bodyType": "Hatchback",
@@ -41,6 +59,15 @@
     "model": "Gurkha",
     "slug": "gurkha",
     "bodyType": "Mid-size SUV",
+    "fuelTypes": [
+      "Diesel"
+    ]
+  },
+  {
+    "brand": "Force",
+    "model": "Urbania",
+    "slug": "urbania",
+    "bodyType": "Van",
     "fuelTypes": [
       "Diesel"
     ]
@@ -423,6 +450,15 @@
   },
   {
     "brand": "Mahindra",
+    "model": "BE 6",
+    "slug": "be-6",
+    "bodyType": "EV Crossover",
+    "fuelTypes": [
+      "EV"
+    ]
+  },
+  {
+    "brand": "Mahindra",
     "model": "Bolero",
     "slug": "bolero",
     "bodyType": "Compact SUV",
@@ -521,6 +557,24 @@
     "fuelTypes": [
       "Petrol",
       "Diesel"
+    ]
+  },
+  {
+    "brand": "Mahindra",
+    "model": "XEV 9S",
+    "slug": "xev-9s",
+    "bodyType": "EV Mid-size SUV",
+    "fuelTypes": [
+      "EV"
+    ]
+  },
+  {
+    "brand": "Mahindra",
+    "model": "XEV 9e",
+    "slug": "xev-9e",
+    "bodyType": "EV Coupe SUV",
+    "fuelTypes": [
+      "EV"
     ]
   },
   {
@@ -808,6 +862,15 @@
     "fuelTypes": [
       "Petrol",
       "CNG"
+    ]
+  },
+  {
+    "brand": "Maruti Suzuki",
+    "model": "e Vitara",
+    "slug": "e-vitara",
+    "bodyType": "EV Compact SUV",
+    "fuelTypes": [
+      "EV"
     ]
   },
   {
@@ -1198,6 +1261,15 @@
     "fuelTypes": [
       "Petrol",
       "CNG"
+    ]
+  },
+  {
+    "brand": "Toyota",
+    "model": "Urban Cruiser EBELLA",
+    "slug": "urban-cruiser-ebella",
+    "bodyType": "EV Compact SUV",
+    "fuelTypes": [
+      "EV"
     ]
   },
   {
