@@ -1044,8 +1044,16 @@
     "bodyType": "Mid-size SUV",
     "fuelTypes": [
       "Petrol",
-      "EV",
       "Diesel"
+    ]
+  },
+  {
+    "brand": "Tata",
+    "model": "Sierra EV",
+    "slug": "sierra-ev",
+    "bodyType": "EV Crossover",
+    "fuelTypes": [
+      "EV"
     ]
   },
   {
