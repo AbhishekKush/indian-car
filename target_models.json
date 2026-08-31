@@ -423,6 +423,15 @@
   },
   {
     "brand": "MG",
+    "model": "Hector Tomahawk PHEV",
+    "slug": "hector-tomahawk-phev",
+    "bodyType": "Compact SUV",
+    "fuelTypes": [
+      "PHEV"
+    ]
+  },
+  {
+    "brand": "MG",
     "model": "Majestor",
     "slug": "majestor",
     "bodyType": "Compact SUV",
