@@ -19,6 +19,15 @@
   },
   {
     "brand": "Citroen",
+    "model": "Basalt X",
+    "slug": "basalt-x",
+    "bodyType": "Compact SUV",
+    "fuelTypes": [
+      "Petrol"
+    ]
+  },
+  {
+    "brand": "Citroen",
     "model": "C3",
     "slug": "c3",
     "bodyType": "Hatchback",
@@ -59,6 +68,15 @@
     "model": "Gurkha",
     "slug": "gurkha",
     "bodyType": "Mid-size SUV",
+    "fuelTypes": [
+      "Diesel"
+    ]
+  },
+  {
+    "brand": "Force",
+    "model": "Gurkha 5 Door",
+    "slug": "gurkha-5-door",
+    "bodyType": "Compact SUV",
     "fuelTypes": [
       "Diesel"
     ]
@@ -366,12 +384,30 @@
   },
   {
     "brand": "Kia",
+    "model": "Sorento",
+    "slug": "sorento",
+    "bodyType": "Compact SUV",
+    "fuelTypes": [
+      "Diesel"
+    ]
+  },
+  {
+    "brand": "Kia",
     "model": "Syros",
     "slug": "syros",
     "bodyType": "Compact SUV",
     "fuelTypes": [
       "Petrol",
       "Diesel"
+    ]
+  },
+  {
+    "brand": "Kia",
+    "model": "Syros EV",
+    "slug": "syros-ev",
+    "bodyType": "Compact SUV",
+    "fuelTypes": [
+      "EV"
     ]
   },
   {
@@ -423,6 +459,15 @@
   },
   {
     "brand": "MG",
+    "model": "Hector Tomahawk EV",
+    "slug": "hector-tomahawk-ev",
+    "bodyType": "Compact SUV",
+    "fuelTypes": [
+      "EV"
+    ]
+  },
+  {
+    "brand": "MG",
     "model": "Hector Tomahawk PHEV",
     "slug": "hector-tomahawk-phev",
     "bodyType": "Compact SUV",
@@ -462,6 +507,15 @@
     "model": "BE 6",
     "slug": "be-6",
     "bodyType": "EV Crossover",
+    "fuelTypes": [
+      "EV"
+    ]
+  },
+  {
+    "brand": "Mahindra",
+    "model": "BE 6 SPORTEQ",
+    "slug": "be-6-sporteq",
+    "bodyType": "Compact SUV",
     "fuelTypes": [
       "EV"
     ]
@@ -556,6 +610,15 @@
     "fuelTypes": [
       "Petrol",
       "Diesel"
+    ]
+  },
+  {
+    "brand": "Mahindra",
+    "model": "Thar OG",
+    "slug": "thar-og",
+    "bodyType": "Compact SUV",
+    "fuelTypes": [
+      "Petrol"
     ]
   },
   {
@@ -1013,6 +1076,15 @@
   },
   {
     "brand": "Tata",
+    "model": "Aeris",
+    "slug": "aeris",
+    "bodyType": "Sedan",
+    "fuelTypes": [
+      "Petrol"
+    ]
+  },
+  {
+    "brand": "Tata",
     "model": "Altroz",
     "slug": "altroz",
     "bodyType": "Hatchback",
@@ -1174,6 +1246,15 @@
     "fuelTypes": [
       "Petrol",
       "CNG"
+    ]
+  },
+  {
+    "brand": "Tata",
+    "model": "Xpres T EV",
+    "slug": "xpres-t-ev",
+    "bodyType": "Sedan",
+    "fuelTypes": [
+      "EV"
     ]
   },
   {
