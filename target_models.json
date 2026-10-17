@@ -47,11 +47,29 @@
   },
   {
     "brand": "Citroen",
+    "model": "C3 X",
+    "slug": "c3-x",
+    "bodyType": "Hatchback",
+    "fuelTypes": [
+      "Petrol"
+    ]
+  },
+  {
+    "brand": "Citroen",
     "model": "C5 Aircross",
     "slug": "c5-aircross",
     "bodyType": "Premium SUV",
     "fuelTypes": [
       "Diesel"
+    ]
+  },
+  {
+    "brand": "Citroen",
+    "model": "e-C3 X",
+    "slug": "e-c3-x",
+    "bodyType": "Hatchback",
+    "fuelTypes": [
+      "EV"
     ]
   },
   {
@@ -883,6 +901,42 @@
     "fuelTypes": [
       "Petrol",
       "CNG"
+    ]
+  },
+  {
+    "brand": "Maruti Suzuki",
+    "model": "Suzuki Celerio",
+    "slug": "suzuki-celerio",
+    "bodyType": "Hatchback",
+    "fuelTypes": [
+      "Petrol"
+    ]
+  },
+  {
+    "brand": "Maruti Suzuki",
+    "model": "Suzuki Eeco",
+    "slug": "suzuki-eeco",
+    "bodyType": "Compact SUV",
+    "fuelTypes": [
+      "Petrol"
+    ]
+  },
+  {
+    "brand": "Maruti Suzuki",
+    "model": "Suzuki Ertiga",
+    "slug": "suzuki-ertiga",
+    "bodyType": "Compact SUV",
+    "fuelTypes": [
+      "CNG"
+    ]
+  },
+  {
+    "brand": "Maruti Suzuki",
+    "model": "Suzuki Grand Vitara",
+    "slug": "suzuki-grand-vitara",
+    "bodyType": "Compact SUV",
+    "fuelTypes": [
+      "Petrol"
     ]
   },
   {
